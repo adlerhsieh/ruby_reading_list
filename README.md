@@ -1,6 +1,6 @@
 # Ruby Reading List
 
-This is a guide for Ruby junior developers who have finished their basic trainging but do not know where to continue. It also aims to help them get ready for work quickly.
+This is a guide for Ruby junior developers who have finished their basic trainging but do not know where to continue. It also aims to help them get ready for work quickly. Suggestions, ideas, and pull requests are welcome.
 
 ## Testing
 
