@@ -2,6 +2,11 @@
 
 This is a guide for Ruby junior developers who have finished their basic trainging but do not know where to continue. It also aims to help them get ready for work quickly. Suggestions, ideas, and pull requests are welcome.
 
+## General
+
+- [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+- [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
+
 ## Testing
 
 - [Better Specs](http://betterspecs.org/) illustrates different patterns to write a readable and efficient test suite in RSpec.
